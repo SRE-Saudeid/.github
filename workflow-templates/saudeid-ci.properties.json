@@ -1,6 +1,6 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI workflow template.",
+    "name": "SaudeId Workflow",
+    "description": "saudeid CI workflow template.",
     "iconName": "example-icon",
     "categories": [
         "Go"
